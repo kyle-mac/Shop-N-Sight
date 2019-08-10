@@ -26,4 +26,7 @@ The end idea is that this application could be expanded towards all categories i
 ### Application
 
 [Click Here to Try the App!](http://ec2-54-173-219-194.compute-1.amazonaws.com:4200/home)
+[Source Code Available At:](https://github.com/kyle-mac/capstone_angular/tree/capstone_demo_final_v3)
+
+
 ![Image](https://raw.githubusercontent.com/kyle-mac/capstone_web_deliverable/master/webpage.png)
